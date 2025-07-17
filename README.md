@@ -26,10 +26,3 @@ Detects spoken promises during calls and sends follow-up actions via Slack.
 - Storage: S3 for intent labels
 
 ---
-
-## 🧪 Success Criteria (v0.1)
-
-- ≥ 5 ✅ Do it actions executed across 3 teams
-- ≥ 3 unsolicited "you saved me" quotes
-- False-positive rate < 10%
-- Daily Slack DM per active seat
